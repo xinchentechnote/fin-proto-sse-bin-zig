@@ -1,6 +1,6 @@
 # fin-proto-sse-bin-zig
 
-上交所(step)二进制行情协议 v0.57 的 Zig 消息库(模块名 `sse_binary`),
+上交所流式二进制协议 v0.57 的 Zig 消息库(模块名 `sse_binary`),
 基于 [fin-proto-runtime-bin-zig](../fin-proto-runtime-bin-zig) 运行时。
 对应 Rust 版本:[fin-proto-sse-bin-rs](https://github.com/xinchentechnote/fin-proto-sse-bin-rs)。
 
